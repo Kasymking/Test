@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+#section1 {
+  background: url(https://clck.ru/ZAp3f);
+  background-size: cover;
+}
+#smideas p,
+h2 {
+  color: white;
+}
+#smideas h2 {
+  font-size: 70px;
+  font-family: "Alliance No.1", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol";
+  margin: 10px 5px 15px 5px;
+}
+.header-flex img {
+  width: 100px;
+}
+#smideas p {
+  font-size: 20px;
+  font-weight: 400;
+  opacity: 0.7;
+}
+.header-flex {
+  display: flex;
+
+  align-items: center;
+}
+.header-flex .a {
+  text-decoration: none;
+  font-size: 30px;
+  margin: 5px 35px 5px 35px;
+}
+.main {
+  opacity: 1;
+}
+nav * {
+  color: white;
+  font-size: 16px;
+  text-decoration: none;
+  opacity: 1;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial,
+    sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+}
+nav a {
+  margin-left: 20px;
+}
+nav a:nth-child(5) {
+  margin-left: 500px;
+}
+#smideas {
+  margin: 100px 20px;
+}
+nav a:hover {
+  opacity: 0.7;
+}
